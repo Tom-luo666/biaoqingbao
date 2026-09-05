@@ -1,0 +1,6 @@
+interface:
+  display_name: "biaoqingbao"
+  short_description: "真人大头搭配卡通小身体，制作透明九宫格与循环 GIF 表情包"
+  default_prompt: "使用 $biaoqingbao，先展示小表情大全让我选择，等我回复后，再按我上传的人物照片生成九宫格，并继续完成独立 PNG、循环 GIF 和打包。"
+
+
